@@ -18,7 +18,6 @@ A responsive design that works on all screen sizes.
 <br>
 <h2>How to use</h2>
 Clone or download the repository and open the index.html file in your browser.
-Alternatively, you can access the live version of the calculator here
 <br>
 <h2>Contributing</h2>
 Contributions are welcome! If you find any bugs or want to suggest a new feature, please open an issue or submit a pull request.
@@ -32,5 +31,3 @@ Allowing users to customize the calculator's design and layout.
 <br>
 <h2>Conclusion</h2>
 This JavaScript calculator is a great way to practice your JavaScript skills and improve your understanding of web development. Whether you're a beginner or an experienced developer, you'll find that this calculator is a fun and engaging project to work on. It's a great way to learn how to use event listeners, functions and basic mathematical operations in JavaScript. With the added features of backspace, percentage and keyboard support, it makes the calculator more user-friendly and versatile. The responsive design ensures that it works seamlessly on all screen sizes. So, go ahead and give it a try and see what you can create with it. Happy coding!
-
-
