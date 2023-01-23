@@ -47,6 +47,8 @@ input {
   width: 100% !important;
   background-color: #f5d6d3;
   border: 3px solid #302f2b;
+  font-size: 40px;
+  padding: 1rem;
 }
 
 .operations {
